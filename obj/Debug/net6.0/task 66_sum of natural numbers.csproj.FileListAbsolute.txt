@@ -1,0 +1,15 @@
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\bin\Debug\net6.0\task 66_sum of natural numbers.exe
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\bin\Debug\net6.0\task 66_sum of natural numbers.deps.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\bin\Debug\net6.0\task 66_sum of natural numbers.runtimeconfig.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\bin\Debug\net6.0\task 66_sum of natural numbers.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\bin\Debug\net6.0\task 66_sum of natural numbers.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.csproj.AssemblyReference.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.AssemblyInfoInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.AssemblyInfo.cs
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.csproj.CoreCompileInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\refint\task 66_sum of natural numbers.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\task 66_sum of natural numbers.genruntimeconfig.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 9 13.10.2022\task 66_sum of natural numbers\obj\Debug\net6.0\ref\task 66_sum of natural numbers.dll
